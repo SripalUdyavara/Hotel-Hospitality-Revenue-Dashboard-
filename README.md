@@ -47,7 +47,7 @@ The dashboard utilizes data from Excel sheets, which are uploaded and processed 
 The Power BI file (.pbix) will be uploaded to GitHub, along with sample Excel datasets used for the analysis. Users can download and modify the dashboard as needed.
 
 ## Dashboard Preview
-![Hotel Hospitality Revenue Dashboard](Hotel_Hospitality_Dashboard.png)
+![Hotel Hospitality Revenue Dashboard](Hotel_Hospitality_Revenue_Dashboard.png)
 
 ## Conclusion
 The **Hotel Hospitality Revenue Dashboard** provides valuable insights into hotel performance, helping management optimize pricing strategies, improve occupancy rates, and enhance guest experiences. By leveraging Power BI and Excel, this dashboard offers a dynamic and interactive way to analyze key business metrics.
