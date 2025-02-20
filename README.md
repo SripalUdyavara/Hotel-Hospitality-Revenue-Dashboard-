@@ -44,7 +44,7 @@ The dashboard utilizes data from Excel sheets, which are uploaded and processed 
 - **Excel** - Source data format.
 
 ## Uploading to GitHub
-The Power BI file (.pbix) will be uploaded to GitHub, along with sample Excel datasets used for the analysis. Users can download and modify the dashboard as needed.
+The Power BI file (.pbix) is uploaded to GitHub. Users can download and modify the dashboard as needed.
 
 ## Dashboard Preview
 ![Hotel Hospitality Revenue Dashboard](Hotel_Hospitality_Revenue_Dashboard.png)
